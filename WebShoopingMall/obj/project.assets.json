@@ -7645,11 +7645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\电商实战\\20200108手机商城第一次课-swagger-跨域-反射\\WebShoopingMall\\WebShoopingMall\\WebShoopingMall.csproj",
+      "projectUniqueName": "C:\\MyWord\\web\\MyWeb\\WebShoopingMall\\WebShoopingMall.csproj",
       "projectName": "WebShoopingMall",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\电商实战\\20200108手机商城第一次课-swagger-跨域-反射\\WebShoopingMall\\WebShoopingMall\\WebShoopingMall.csproj",
+      "projectPath": "C:\\MyWord\\web\\MyWeb\\WebShoopingMall\\WebShoopingMall.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\电商实战\\20200108手机商城第一次课-swagger-跨域-反射\\WebShoopingMall\\WebShoopingMall\\obj\\",
+      "outputPath": "C:\\MyWord\\web\\MyWeb\\WebShoopingMall\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
